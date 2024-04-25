@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **michele.saporito98@yahoo.com**
 
-- ⚡ Fun fact **Did you know that the term "bug" to describe a software error was first coined by computer scientist Grace Hopper in 1947 when she found a moth stuck in her computer's relay? This incident is often considered the origin of the term "debugging" in coding.**
+- ⚡ Fun fact **Did you know that the term "bug" to describe a programming error was first used by Grace Hopper in 1947 when she found a moth causing a malfunction in the Harvard Mark II computer?**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
