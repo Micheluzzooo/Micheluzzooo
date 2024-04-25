@@ -13,8 +13,8 @@ Skills:
 
 Contact:
 
-    Email: [michele.saporito98@yahoo.com]
-    LinkedIn: [https://www.linkedin.com/in/michele-saporito-557327180/]
+    Email: michele.saporito98@yahoo.com
+    LinkedIn: [https://www.linkedin.com/in/michele-saporito-557327180/
 
 Let's connect and code together! 🌟
 
